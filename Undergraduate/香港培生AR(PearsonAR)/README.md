@@ -7,5 +7,9 @@
 
 
 #项目APP下载地址
-#申明：本人只是修改和增加了APP中的一部分内容，是项目维护阶段的工作，并没有参与到前期的开发中，如果有侵权请联系我:denysleew@gmail.com
 https://itunes.apple.com/cn/app/%E5%9F%B9%E7%94%9F-ar/id1015269385?mt=8
+
+
+
+#申明：本人只是修改和增加了APP中的一部分内容，是项目维护阶段的工作，并没有参与到前期的开发中，如果有侵权请联系我:denysleew@gmail.com
+
