@@ -1,6 +1,6 @@
-无线电知识考评系统可以在 http://www.liyaoshun.xin:8080/examSystem/ 和   http://www.liyaoshun.xin:8080/examSystem/radio 中浏览。
+无线电知识考评系统可以在 http://www.lyscv.top:8080/examSystem/ 和   http://www.lyscv.top:8080/examSystem/radio 中浏览。
 测试账号 gzs1 密码 123456
-第2个网址现在由于环境问题暂时还只能显示界面，，登录的时候还不能成功，正在解决....
+第2个网址现在由于环境问题暂时还只能显示界面，，登录的时候还不能成功(开发使用的是tomcat7，部署的时候使用的是tomcat8，环境有所差异，待有空余时间解决差异问题)
 
 说明：临时搭建的环境，网页可能有一些小bug，这些是搭建tomcat环境造成的。（项目编译环境和阿里云中的环境不一样）
 
